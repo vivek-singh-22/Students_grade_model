@@ -1,0 +1,4 @@
+fastapi[all]
+joblib
+pandas
+scikit-learn
